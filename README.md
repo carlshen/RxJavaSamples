@@ -1,7 +1,9 @@
 样例代码已正式切换到基于 RxJava 2
 ================
 
-> 需要旧版 RxJava 1 代码的点[这里](https://github.com/rengwuxian/RxJavaSamples/tree/1.x)
+感谢原作者的代码。
+
+需要旧版 RxJava 1 代码 https://github.com/carlshen/rxjava1samples
 
 ### 项目介绍
 
