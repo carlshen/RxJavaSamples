@@ -9,7 +9,7 @@
 
     <include layout="@layout/tip_bt" />
 
-    <android.support.v4.widget.SwipeRefreshLayout
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
         android:id="@+id/swipeRefreshLayout"
         android:layout_width="match_parent"
         android:layout_height="200dp">
@@ -20,7 +20,7 @@
             android:layout_height="200dp"
             android:background="#11333333"/>
 
-    </android.support.v4.widget.SwipeRefreshLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
 
     <Button
         android:id="@+id/requestBt"

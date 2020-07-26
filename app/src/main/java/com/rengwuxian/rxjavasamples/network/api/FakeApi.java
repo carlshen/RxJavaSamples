@@ -2,7 +2,7 @@
 
 package com.rengwuxian.rxjavasamples.network.api;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 import com.rengwuxian.rxjavasamples.model.FakeThing;
 import com.rengwuxian.rxjavasamples.model.FakeToken;
